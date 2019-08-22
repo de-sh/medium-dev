@@ -5,9 +5,9 @@ module.exports = {
   description: "Devdutt Shenoi's blog",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Devdutt Shenoi ...
-  shortBio: '',
+  shortBio: ' for the love of writing and code..',
   // a longer bio showing on the landing page of the blog
-  bio: `I love telling stories, writing them down, blogging about them and adding some of my own photos in the mix. I moved to writing for blog.devdutt.me.`,
+  bio: `I love telling stories, writing them down, blogging about them and adding some of my own photos in the mix. I now write and code in flow.`,
   author: 'Devdutt Shenoi',
   githubUrl: 'https://github.com/',
   // replace this by the url where your website will be published
@@ -16,9 +16,8 @@ module.exports = {
     // leave the social media you do not want to appear as empty strings
     twitter: 'DevduttShenoi',
     medium: '@DevduttShenoi',
-    facebook: '',
-    github: '',
-    linkedin: '',
-    instagram: '',
+    github: 'de-sh',
+    linkedin: 'devdutt-shenoi',
+    instagram: 'devdutt.sh',
   },
 }
